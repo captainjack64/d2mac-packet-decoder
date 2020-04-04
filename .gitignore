@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+*.bmp
+*.png
+*.txt
+*.tgz
+.DS_Store
+*.db
+d2mac-decoder
