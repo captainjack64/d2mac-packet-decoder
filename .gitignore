@@ -51,6 +51,7 @@ Module.symvers
 Mkfile.old
 dkms.conf
 *.bmp
+!packets.bmp
 *.png
 *.txt
 *.tgz
